@@ -1,0 +1,2 @@
+//TODO: Allow customizing of colour schemes https://getmdl.io/customize/index.html
+//TODO: Look into adding a right click menu to do something: https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/

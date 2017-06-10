@@ -1,0 +1,94 @@
+{
+  "colorSchemes" : [
+    {
+      "name" : "Blue",
+      "primary" : "#2196F3",
+      "accent" : "#1976D2"
+    },
+    {
+      "name" : " Light Blue",
+      "primary" : "#03A9F4",
+      "accent" : "#0288D1"
+    },
+    {
+      "name" : "Cyan",
+      "primary" : "#00BCD4",
+      "accent" : "#0097A7"
+    },
+    {
+      "name" : "Teal",
+      "primary" : "#009688",
+      "accent" : "#00796B"
+    },
+    {
+      "name" : "Green",
+      "primary" : "#8BC34A",
+      "accent" : "#388E3C"
+    },
+    {
+      "name" : "Light Green",
+      "primary" : "#8BC34A",
+      "accent" : "#689F38"
+    },
+    {
+      "name" : "Lime",
+      "primary" : "#CDDC39",
+      "accent" : "#AFB42B"
+    },
+    {
+      "name" : "Yellow",
+      "primary" : "#FFEB3B",
+      "accent" : "#FBC02D"
+    },
+    {
+      "name" : "Amber",
+      "primary" : "#FFC107",
+      "accent" : "#FFA000"
+    },
+    {
+      "name" : "Orange",
+      "primary" : "#FF9800",
+      "accent" : "#F57C00"
+    },
+    {
+      "name" : "Brown",
+      "primary" : "#795548",
+      "accent" : "#5D4037"
+    },
+    {
+      "name" : "Blue Grey",
+      "primary" : "#607D8B",
+      "accent" : "#455A64"
+    },
+    {
+      "name" : "Grey",
+      "primary" : "#9E9E9E",
+      "accent" : "#616161"
+    },
+    {
+      "name" : "Deep Orange",
+      "primary" : "#FF5722",
+      "accent" : "#E64A19"
+    },
+    {
+      "name" : "Red",
+      "primary" : "#F44336",
+      "accent" : "#D32F2F"
+    },
+    {
+      "name" : "Pink",
+      "primary" : "#E91C63",
+      "accent" : "#C2165C"
+    },
+    {
+      "name" : "Purple",
+      "primary" : "#9C27B0",
+      "accent" : "#D32F2F"
+    },
+    {
+      "name" : "Deep Purple",
+      "primary" : "#673AB7",
+      "accent" : "#512DA8"
+    }
+  ]
+}

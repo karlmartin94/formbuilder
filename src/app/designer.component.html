@@ -1,3 +1,8 @@
-<h1>
-  {{title}}
-</h1>
+<div ngbDropdown class="d-inline-block">
+    <button class="btn btn-outline-primary" id="colorDropdown" ngbDropdownToggle [style.background-color]="selectedColor.primary">{{ selectedColor.name }} </button>
+    <div class="dropdown-menu" aria-labelledby="colorDropdown">
+        <button class="dropdown-item"  *ngFor="let colorScheme of colorSchemes;" [style.background-color]="colorScheme.primary" (click)="setSelectedColor(colorScheme);" (mouseenter)="setBackgroundColor($event, colorScheme.accent)" (mouseleave)="setBackgroundColor($event, colorScheme.primary)">
+            {{ colorScheme.name }}
+        </button>
+    </div>
+</div>

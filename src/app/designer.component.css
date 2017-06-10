@@ -1,0 +1,21 @@
+button {
+    border-color: #ffffff;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+button.dropdown-item {
+    margin-bottom: 1px;
+}
+
+button:hover.dropdown-item {
+    color: #ffffff;
+}
+
+button#colorDropdown {
+    min-width: 140px;
+}
+
+div.dropdown-menu {
+    padding: 1px;
+}
