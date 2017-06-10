@@ -8,8 +8,8 @@ import {DomSanitizer} from "@angular/platform-browser";
     styleUrls: ['./designer.component.css']
 })
 export class DesignerComponent {
-    private colorSchemes;
-    private selectedColor;
+    public colorSchemes;
+    public selectedColor;
 
     constructor(private sanitizer: DomSanitizer) {
         this.colorSchemes = (<any>data).colorSchemes;
